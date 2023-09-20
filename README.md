@@ -12,8 +12,8 @@ Reach me here!
 <a href="https://mailto:mnovicio2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 # 🔧 Technologies & Tools
-
 <table>
+  <!-- Frontend Technologies -->
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -24,7 +24,26 @@ Reach me here!
       />
       <br /><strong>React</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        width="48"
+        height="48"
+        alt="HTML5"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+    </td>
   </tr>
+  <!-- Backend Technologies -->
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -46,6 +65,18 @@ Reach me here!
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+        width="48"
+        height="48"
+        alt="Java"
+      />
+      <br /><strong>Java</strong>
+    </td>
+  </tr>
+  <!-- DevOps Technologies -->
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
         width="48"
         height="48"
@@ -55,7 +86,16 @@ Reach me here!
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+        width="48"
+        height="48"
+        alt="Kubernetes"
+      />
+      <br /><strong>Kubernetes</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"
         width="48"
         height="48"
         alt="AWS"
@@ -63,5 +103,62 @@ Reach me here!
       <br /><strong>AWS</strong>
     </td>
   </tr>
-</table>
+  <!-- Version Control & Scripting -->
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+        width="48"
+        height="48"
+        alt="Bash"
+      />
+      <br /><strong>Bash</strong>
+    </td>
+  </tr>
+  <!-- Databases -->
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+        width="48"
+        height="48"
+        alt="MySQL"
+      />
+      <br /><strong>MySQL</strong>
+    </td>
+  </tr>
+  <!-- Automation & Infrastructure as Code -->
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"
+        width="48"
+        height="48"
+        alt="Ansible"
+      />
+      <br /><strong>Ansible</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
+        width="48"
+        height="48"
+        alt="Terraform"
+      />
+      <br /><strong>Terraform</strong>
+    </td>
+  </tr>
+</table
+
+
+
 

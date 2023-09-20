@@ -13,25 +13,55 @@ Reach me here!
 
 # 🔧 Technologies & Tools
 <table>
-  <!-- Row 1 -->
+  <!-- Frontend Technologies -->
   <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      /><br />
+      <strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        width="48"
+        height="48"
+        alt="CSS"
+      /><br />
+      <strong>CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      /><br />
+      <strong>JavaScript</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
         alt="React"
-      />
-      <br /><strong>React</strong>
+      /><br />
+      <strong>React</strong>
     </td>
+  </tr>
+  <!-- Backend Technologies -->
+  <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
         width="48"
         height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node.js</strong>
+        alt="Java"
+      /><br />
+      <strong>Java</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -39,8 +69,56 @@ Reach me here!
         width="48"
         height="48"
         alt="Python"
-      />
-      <br /><strong>Python</strong>
+      /><br />
+      <strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+        width="48"
+        height="48"
+        alt="C"
+      /><br />
+      <strong>C</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      /><br />
+      <strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Flask"
+      /><br />
+      <strong>Flask</strong>
+    </td>
+  </tr>
+  <!-- DevOps Technologies -->
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+        width="48"
+        height="48"
+        alt="Linux"
+      /><br />
+      <strong>Linux</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      /><br />
+      <strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -48,8 +126,17 @@ Reach me here!
         width="48"
         height="48"
         alt="Docker"
-      />
-      <br /><strong>Docker</strong>
+      /><br />
+      <strong>Docker</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+        width="48"
+        height="48"
+        alt="Kubernetes"
+      /><br />
+      <strong>Kubernetes</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -57,89 +144,26 @@ Reach me here!
         width="48"
         height="48"
         alt="AWS"
-      />
-      <br /><strong>AWS</strong>
+      /><br />
+      <strong>AWS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"
         width="48"
         height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
+        alt="Ansible"
+      /><br />
+      <strong>Ansible</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
         width="48"
         height="48"
-        alt="Bash"
-      />
-      <br /><strong>Bash</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-        width="48"
-        height="48"
-        alt="MySQL"
-      />
-      <br /><strong>MySQL</strong>
+        alt="Terraform"
+      /><br />
+      <strong>Terraform</strong>
     </td>
   </tr>
-  <!-- Row 2 -->
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-        width="48"
-        height="48"
-        alt="Kubernetes"
-      />
-      <br /><strong>Kubernetes</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"
-        width="48"
-        height="48"
-        alt="AWS"
-      />
-      <br /><strong>AWS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-        width="48"
-        height="48"
-        alt="Bash"
-      />
-      <br /><strong>Bash</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-        width="48"
-        height="48"
-        alt="MySQL"
-      />
-      <br /><strong>MySQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr
-
-
-
-
-
+</table>
